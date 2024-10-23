@@ -9,6 +9,5 @@
         "points":5400
       }';
       echo $response;
-    }else{
-      echo 'You are on a browser, aren't you ?';
+    }
 ?>
